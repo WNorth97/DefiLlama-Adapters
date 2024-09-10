@@ -5,8 +5,7 @@ const config = {
     owners: [
       '0x0d0707963952f2fba59dd06f2b425ace40b492fe',
       '0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c',
-      '0x234ee9e35f8e9749a002fc42970d570db716453b',
-      //'0x925206b8a707096Ed26ae47C84747fE0bb734F59', //this should never be here, its the WBT token wallet
+      '0x234ee9e35f8e9749a002fc42970d570db716453b'
       '0xD793281182A0e3E023116004778F45c29fc14F19',
       '0xc882b111a75c0c657fc507c04fbfcd2cc984f071',
     ],
